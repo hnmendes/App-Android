@@ -1,4 +1,4 @@
-#Aplicativo com banco de dados fictício
+#Aplicativo com banco de dados fictício#
 
 Portuguese
 
@@ -8,6 +8,7 @@ Agradecimentos: Ricardo Baliero, Eduardo Mossin, outros professores e aos alunos
 
 Criado por: Henrique Nunes.
 
+------------------------------------------------------------------------------------------------------------------------------------------
 
 English
 
