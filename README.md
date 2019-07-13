@@ -18,3 +18,12 @@ An application for Android, in Java, with a link between a fictitious database. 
 Acknowledgments: Ricardo Baliero, Eduardo Mossin, other teachers, and other students who have always played their helper roles.
 
 Created by: Henrique Nunes.
+
+Alguns Prints/Some PrintScreens:
+
+
+![alt text](https://github.com/ricknunesmendes/App-Android/blob/master/Foto1Android.png)
+
+-----------------------------------------------------------------------------------------
+
+![alt text](https://github.com/ricknunesmendes/App-Android/blob/master/Foto2Android.png)
